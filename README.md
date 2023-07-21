@@ -1,5 +1,6 @@
 # LAB1 GITHUB UPLOAD TO REPO
 หลังจากที่เราแก้เสร็จแล้ว
+## *ข้อ2 https://github.com/vishsiri/custmailappquestion/tree/master/lab1_2
 
 ```git 
 git add .
